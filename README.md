@@ -41,7 +41,7 @@ please read the [Contributing Code][4] part of the documentation. If you're subm
 a pull request, please follow the guidelines in the [Submitting a Patch][5] section
 and use [Pull Request Template][6].
 
-Running Symfony Tests
+Running Symfony Tests 
 ----------------------
 
 Information on how to run the Symfony test suite can be found in the
